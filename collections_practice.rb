@@ -38,7 +38,7 @@ def find_a(array)
       true
     end
   end
-
+end
 
 def sum_array(array)
   array.inject(:+)
